@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
+            Get started Learn NextJs (` 20-12-2022 `)&nbsp;
             <code className={styles.code}>pages/index.tsx</code>
           </p>
           <div>
